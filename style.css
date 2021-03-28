@@ -1,0 +1,21 @@
+*{
+    margin: 20px;
+    padding: 20px;
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);}
+     
+    h1{
+        font-style: italic;
+    }
+    .main{
+        position: absolute;
+        margin-top:25% ;
+        left: 50%;
+        transform:translate(-50%)translateY(-50%) ;
+    }
+    button{
+    
+        color: black ;
+        font-size:20PX;
+        margin:5px ;
+        
+        
